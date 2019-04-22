@@ -1,0 +1,38 @@
+C:\Users\Wayne\Desktop\(v0.1)Galaga\(v0.1)Galaga\bin\Debug\(v0.1)Galaga.exe.config
+C:\Users\Wayne\Desktop\(v0.1)Galaga\(v0.1)Galaga\bin\Debug\(v0.1)Galaga.exe
+C:\Users\Wayne\Desktop\(v0.1)Galaga\(v0.1)Galaga\bin\Debug\(v0.1)Galaga.pdb
+C:\Users\Wayne\Desktop\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.csprojAssemblyReference.cache
+C:\Users\Wayne\Desktop\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\_v0._1_Galaga.MainForm.resources
+C:\Users\Wayne\Desktop\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\_v0._1_Galaga.Properties.Resources.resources
+C:\Users\Wayne\Desktop\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.csproj.GenerateResource.cache
+C:\Users\Wayne\Desktop\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\Desktop\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.exe
+C:\Users\Wayne\Desktop\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.pdb
+\\2252-CMS-01\2252 Students$\562877\Downloads\(v0.1)Galaga-20190117T144928Z-001\(v0.1)Galaga\(v0.1)Galaga\bin\Debug\(v0.1)Galaga.exe.config
+\\2252-CMS-01\2252 Students$\562877\Downloads\(v0.1)Galaga-20190117T144928Z-001\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.exe
+\\2252-CMS-01\2252 Students$\562877\Downloads\(v0.1)Galaga-20190117T144928Z-001\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.pdb
+\\2252-CMS-01\2252 Students$\562877\Downloads\(v0.1)Galaga-20190117T144928Z-001\(v0.1)Galaga\(v0.1)Galaga\bin\Debug\(v0.1)Galaga.exe
+\\2252-CMS-01\2252 Students$\562877\Downloads\(v0.1)Galaga-20190117T144928Z-001\(v0.1)Galaga\(v0.1)Galaga\bin\Debug\(v0.1)Galaga.pdb
+\\2252-CMS-01\2252 Students$\562877\Downloads\(v0.1)Galaga-20190117T144928Z-001\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.csprojResolveAssemblyReference.cache
+\\2252-CMS-01\2252 Students$\562877\Downloads\(v0.1)Galaga-20190117T144928Z-001\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\_v0._1_Galaga.MainForm.resources
+\\2252-CMS-01\2252 Students$\562877\Downloads\(v0.1)Galaga-20190117T144928Z-001\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\_v0._1_Galaga.Properties.Resources.resources
+\\2252-CMS-01\2252 Students$\562877\Downloads\(v0.1)Galaga-20190117T144928Z-001\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.csproj.GenerateResource.Cache
+C:\Users\Wayne\Downloads\(v0.1)Galaga-20190117T213307Z-001\(v0.1)Galaga\(v0.1)Galaga\bin\Debug\(v0.1)Galaga.exe.config
+C:\Users\Wayne\Downloads\(v0.1)Galaga-20190117T213307Z-001\(v0.1)Galaga\(v0.1)Galaga\bin\Debug\(v0.1)Galaga.exe
+C:\Users\Wayne\Downloads\(v0.1)Galaga-20190117T213307Z-001\(v0.1)Galaga\(v0.1)Galaga\bin\Debug\(v0.1)Galaga.pdb
+C:\Users\Wayne\Downloads\(v0.1)Galaga-20190117T213307Z-001\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\_v0._1_Galaga.MainForm.resources
+C:\Users\Wayne\Downloads\(v0.1)Galaga-20190117T213307Z-001\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\_v0._1_Galaga.Properties.Resources.resources
+C:\Users\Wayne\Downloads\(v0.1)Galaga-20190117T213307Z-001\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.csproj.GenerateResource.cache
+C:\Users\Wayne\Downloads\(v0.1)Galaga-20190117T213307Z-001\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.exe
+C:\Users\Wayne\Downloads\(v0.1)Galaga-20190117T213307Z-001\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.pdb
+C:\Users\Wayne\Downloads\(v0.1)Galaga-20190117T213307Z-001\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.csprojResolveAssemblyReference.cache
+D:\(v0.1)Galaga\(v0.1)Galaga\bin\Debug\(v0.1)Galaga.exe.config
+D:\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.exe
+D:\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.pdb
+D:\(v0.1)Galaga\(v0.1)Galaga\bin\Debug\(v0.1)Galaga.exe
+D:\(v0.1)Galaga\(v0.1)Galaga\bin\Debug\(v0.1)Galaga.pdb
+D:\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.csprojResolveAssemblyReference.cache
+D:\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\_v0._1_Galaga.MainForm.resources
+D:\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\_v0._1_Galaga.Properties.Resources.resources
+D:\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\(v0.1)Galaga.csproj.GenerateResource.Cache
+D:\(v0.1)Galaga\(v0.1)Galaga\obj\Debug\_v0._1_Galaga.HiScore.resources
